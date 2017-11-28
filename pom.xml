@@ -40,9 +40,9 @@
     </repositories>
     <distributionManagement>
       <repository>
-         <id>samplerelease</id>
-         <name>Internal Releases</name>
-         <url>http://54.197.22.156:8081/repository/samplerelease/</url>
+         <id>Firstgroup</id>
+      
+         <url>http://34.239.106.73:8081/repository/Firstgroup/</url>
       </repository>
       <snapshotRepository>
          <id>sample</id>
